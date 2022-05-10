@@ -1,5 +1,6 @@
-# Ingore virtual env files
+# Ingore large folders
 /venv
+/__pycache__
 
 # Ignore config.json
 config.json

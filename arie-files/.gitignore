@@ -1,0 +1,5 @@
+# Ingore virtual env files
+/venv
+
+# Ignore config.json
+config.json
